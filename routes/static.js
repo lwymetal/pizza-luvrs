@@ -1,6 +1,6 @@
 module.exports = handlers => ({
   method: 'GET',
-  path: '/assets/{param*}',
+  path: '//pizza-luvrs-lw.s3.us-west-1.amazonaws.com/{param*}',
   handler: {
     directory: {
       path: 'assets'
