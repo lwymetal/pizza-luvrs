@@ -18,6 +18,7 @@ function init () {
   create('Green Peppers', 'green_pepper.png', 'green_peppers.png', 10)
   create('Rainbows', 'rainbow.png', 'rainbows.png', 11)
   create('Money', 'money.png', 'moneys.png', 12)
+  create('Left Beef', 'left_beef.png', 'left_beefs.png', 13)
 }
 
 async function getAll () {

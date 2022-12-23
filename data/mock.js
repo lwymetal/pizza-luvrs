@@ -8,7 +8,8 @@ const mockPizzas = [
   require('./mock_pizzas/foul_wizard.json'),
   require('./mock_pizzas/lazer_pie.json'),
   require('./mock_pizzas/meat_haters.json'),
-  require('./mock_pizzas/red_forever.json')
+  require('./mock_pizzas/red_forever.json'),
+  require('./mock_pizzas/none_left_beef.json'),
 ]
 
 module.exports.hydrate = async () => {
